@@ -1,7 +1,7 @@
 # Password manager
 
-An user can manage account and password on a website.
+An user can manage an account and password on a website.
 
-Using id & a pattern password to log in the system.
+Using ID & a pattern password to log in to the system.
 
-It requires pygame to execute the file.
+It requires pygame to compile and execute the file.
